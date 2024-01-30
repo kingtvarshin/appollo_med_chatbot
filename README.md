@@ -17,8 +17,8 @@ ref:
     => embeddings => https://python.langchain.com/docs/integrations/text_embedding/sentence_transformers
         => pip install --upgrade --quiet  sentence_transformers > /dev/null
 
-    => Simple Python bindings => https://pypi.org/project/llama-cpp-python/
-        => pip install llama-cpp-python
+    <!-- => Simple Python bindings => https://pypi.org/project/llama-cpp-python/
+        => pip install llama-cpp-python -->
 
         pip install ipykernel
         python3 -m ipykernel install --user --name=medbot_venv
