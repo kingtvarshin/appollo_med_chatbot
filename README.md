@@ -14,7 +14,9 @@ ref:
     => vector db => chromadb => pip install chromadb
     => document loader => https://python.langchain.com/docs/modules/data_connection/document_loaders/pdf#pypdf-directory
     => text plitter => https://python.langchain.com/docs/modules/data_connection/document_transformers/character_text_splitter
-    => embeddings => 
+    => embeddings => https://python.langchain.com/docs/integrations/text_embedding/sentence_transformers
+        => pip install --upgrade --quiet  sentence_transformers > /dev/null
+
     => Simple Python bindings => https://pypi.org/project/llama-cpp-python/
         => pip install llama-cpp-python
 
