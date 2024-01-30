@@ -22,3 +22,5 @@ ref:
         python3 -m ipykernel install --user --name=medbot_venv
 
         pip install pypdf
+
+        pip install gradio
