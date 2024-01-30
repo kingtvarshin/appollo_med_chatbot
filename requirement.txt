@@ -5,6 +5,7 @@ accelerate
 bitsandbytes
 ctransformers
 sentence_transformers
-faiss_cpu
+chromadb
 chainlit
 huggingface_hub
+python-dotenv

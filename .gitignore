@@ -1,1 +1,4 @@
 llama_model
+.env
+.ipynb_checkpoints
+testing_code_block_for_medbot.ipynb
